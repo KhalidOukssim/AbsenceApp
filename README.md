@@ -18,7 +18,7 @@ samples, guidance on mobile development, and a full API reference.
 ### ⚡ Technologies Used
 ![Figma](https://img.shields.io/badge/-Figma-green?style=flat-square&logo=figma)
 ![Sqlite](https://img.shields.io/badge/-Sqlite-purple?style=flat-square&logo=sqlite)
-![ORM](https://img.shields.io/badge/-ORM-red?style=flat-square&logo=ORM)
+![ORM](https://img.shields.io/badge/-ORM-black?style=flat-square&logo=ORM)
 ![Flutter](https://img.shields.io/badge/-flutter-blue?style=flat-square&logo=flutter)
 
 ### Contact me on
